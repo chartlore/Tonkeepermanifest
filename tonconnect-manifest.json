@@ -1,5 +1,7 @@
 {
-  "name": "ChartLore",
   "url": "https://app.tonkeeper.com",
-  "iconUrl": "https://raw.githubusercontent.com/chartlore/Tonkeepermanifest/main/ChartLore_Logo_3DParticle.png"
+  "name": "ChartLore",
+  "iconUrl": "https://raw.githubusercontent.com/chartlore/Tonkeepermanifest/main/ChartLore_Logo_3DParticle.png",
+  "termsOfUseUrl": "https://chartlore.com/terms",
+  "privacyPolicyUrl": "https://chartlore.com/privacy"
 }

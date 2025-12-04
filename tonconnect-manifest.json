@@ -1,10 +1,9 @@
-
 {
   "url": "https://chartlore.com",
   "name": "ChartLore",
   "iconUrl": "https://raw.githubusercontent.com/chartlore/Tonkeepermanifest/main/ChartLore_Logo_3DParticle.png",
   "termsOfUseUrl": "https://chartlore.com/terms",
   "privacyPolicyUrl": "https://chartlore.com/privacy",
-  "tondns": "",
-  "networks": ["mainnet"] 
+  "tondns": "chartlore.ton",
+  "networks": ["mainnet"]
 }
